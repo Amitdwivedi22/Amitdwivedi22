@@ -14,14 +14,13 @@
 
 ---
 
-👋 Hi, I'm **Amit Dwivedi**, a passionate developer who enjoys building creative and practical solutions using the **MERN stack**, with a strong focus on **full-stack development**. I am actively exploring **open-source contributions** to collaborate with other developers and give back to the community. Alongside development, I’m sharpening my skills in **Data Structures and Algorithms (DSA)** to improve problem-solving abilities. Currently based in **Bangalore, India**, I love working on innovative projects that create real-world impact. 🚀  
+👋 Hi, I'm Amit Dwivedi, a developer passionate about building creative solutions with the MERN stack, focusing on full-stack development. I’m exploring open-source, sharpening my DSA skills, and working on projects that make a real-world impact. Currently based in Bangalore, India. 🚀
 
 ---
 
-- 🌱 I’m currently learning **DSA**  
+
 - 👨‍💻 All of my projects are available at <a href="https://amit-dwivedi.vercel.app/" target="_blank" rel="noopener noreferrer">amit-dwivedi.vercel.app</a>  
-- 💬 Ask me about **Reactjs, JavaScript, GSAP...**  
-- 📫 How to reach me: **adwivedi08340@gmail.com**  
+-  📫 How to reach me: **adwivedi08340@gmail.com**  
 - ⚡ Fun fact: **My commits tell a better story than my diary.**  
 
 <h3 align="left">Connect with me:</h3>
