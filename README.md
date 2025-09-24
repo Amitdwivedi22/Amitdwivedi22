@@ -23,7 +23,7 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at <a href="https://amit-dwivedi.vercel.app/" target="_blank" rel="noopener noreferrer">amit-dwivedi.vercel.app</a>  
+- 👨‍💻 All of my projects are available at <a href="https://amit-dwibedi.vercel.app/#" target="_blank" rel="noopener noreferrer">amit-dwivedi.vercel.app</a>  
 - 📫 How to reach me: **adwivedi08340@gmail.com**  
 - ⚡ Fun fact: **My commits tell a better story than my diary.**  
 
