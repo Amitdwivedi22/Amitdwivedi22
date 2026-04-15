@@ -5,18 +5,16 @@
   </a>
 </p>
 
-<!-- Animated Name -->
+<!-- Animated Name (Upgraded) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=000000&weight=700&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Kumar+Dwivedi" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amit+Kumar+Dwivedi;Full+Stack+Developer+🚀;Exploring+AI+%2F+ML+🧠;Building+Smart+%26+Secure+Systems+🔐" alt="Typing SVG" />
 </h1>
 
-
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">⚡ Turning ideas into scalable and intelligent applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amitdwivedi22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amitdwivedi22&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
 </p>
-
 ---
 
 # 💫 About Me:
