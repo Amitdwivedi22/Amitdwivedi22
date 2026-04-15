@@ -7,7 +7,7 @@
 
 <!-- Animated Name (Upgraded) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amit+Kumar+Dwivedi;Full+Stack+Developer+🚀;Exploring+AI+%2F+ML+🧠;Building+Smart+%26+Secure+Systems+🔐" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Amit+Kumar+Dwivedi;Full+Stack+Developer+🚀;Exploring+AI+%2F+ML+🧠" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">⚡ Turning ideas into scalable and intelligent applications</h3>
